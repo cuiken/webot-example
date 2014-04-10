@@ -1,5 +1,5 @@
 {
-  "name": "weixin-robot-example",
+  "name": "weixin-taosz",
   "version": "0.0.5",
   "main": "app.js",
   "dependencies": {
@@ -28,12 +28,11 @@
     "webot",
     "wechat"
   ],
-  "description": "weixin-robot 模块示例",
-  "repository": "https://github.com/node-webot/webot-example.git",
-  "author": "Jesse Yang <jyyjcc@gmail.com>",
+  "description": "淘苏州",
+  "repository": "https://github.com/cuiken",
+  "author": "Ken Cui <ken.cuik@gmail.com>",
   "contributors": [
-    "Jesse Yang <jyyjcc@gmail.com> (http://github.com/ktmud)",
-    "TZ <atian25@qq.com> (http://atian25.iteye.com/)"
+    "Ken Cui <ken.cuik@gmail.com> (http://github.com/cuiken)"
   ],
   "license": "MIT"
 }
